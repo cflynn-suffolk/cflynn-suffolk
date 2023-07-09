@@ -1,11 +1,11 @@
 <!--
-**connorflyn/connorflyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cflynn-suffolk/cflynn-suffolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub followers](https://img.shields.io/github/followers/connorflyn?style=social)
+![GitHub followers](https://img.shields.io/github/followers/cflynn-suffolk?style=social)
 -->
 
 
-## <img src="https://raw.githubusercontent.com/connorflyn/connorflyn/master/gifs/wave.gif" width="30px"> Hello, I am Connor Flynn
+## <img src="https://raw.githubusercontent.com/cflynn-suffolk/cflynn-suffolk/master/gifs/wave.gif" width="30px"> Hello, I am Connor Flynn
 
  I am a data engineer at Suffolk Construction and live in Boston, Massachusetts. I am a Certified AWS Cloud Practioner and have Bachelor degrees in Mathematics and Economics. I am passionate aboout ETL pipelines, Data Modeling and Cloud Infrastructure
 
@@ -37,13 +37,13 @@
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 
 ## 📊 Coding Stats
-[![Connor's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connorflyn&layout=compact)](https://github.com/connorflyn/github-readme-stats)
+[![Connor's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cflynn-suffolk&layout=compact)](https://github.com/cflynn-suffolk/github-readme-stats)
 
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=connorflyn&show_icons=true&count_private=true&theme=gruvbox)
+![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cflynn-suffolk&show_icons=true&count_private=true&theme=gruvbox)
 
 
 
-## <img src="https://raw.githubusercontent.com/connorflyn/connorflyn/master/gifs/handshaking.gif" width="30px"> Let's Keep in Touch
+## <img src="https://raw.githubusercontent.com/cflynn-suffolk/cflynn-suffolk/master/gifs/handshaking.gif" width="30px"> Let's Keep in Touch
 
 <p align="left">
 <a href="https://www.linkedin.com/in/connor-flynn-940707181/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Flynn,Connor-blue?style=flat-square&logo=linkedin"></a>
